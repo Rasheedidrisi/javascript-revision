@@ -1,4 +1,4 @@
-# JavaScript Notes for Beginners (Simple Language + Interview Tips)
+# JavaScriptMainNotes for Beginners (Simple Language + Interview Tips)
 
 > **How to use these notes**
 > - Each topic has 3 parts: **Simple Definition**, **Code Example**, and **Interview Angle**.
